@@ -1,0 +1,10 @@
+C:\Users\lavre\OneDrive\Рабочий стол\ВНТУ\2 курс\Алгоритми\lab2\DynamicArrayWinForms\obj\Debug\DynamicArrayWinForms.csproj.AssemblyReference.cache
+C:\Users\lavre\OneDrive\Рабочий стол\ВНТУ\2 курс\Алгоритми\lab2\DynamicArrayWinForms\obj\Debug\DynamicArrayWinForms.Form1.resources
+C:\Users\lavre\OneDrive\Рабочий стол\ВНТУ\2 курс\Алгоритми\lab2\DynamicArrayWinForms\obj\Debug\DynamicArrayWinForms.Properties.Resources.resources
+C:\Users\lavre\OneDrive\Рабочий стол\ВНТУ\2 курс\Алгоритми\lab2\DynamicArrayWinForms\obj\Debug\DynamicArrayWinForms.csproj.GenerateResource.cache
+C:\Users\lavre\OneDrive\Рабочий стол\ВНТУ\2 курс\Алгоритми\lab2\DynamicArrayWinForms\obj\Debug\DynamicArrayWinForms.csproj.CoreCompileInputs.cache
+C:\Users\lavre\OneDrive\Рабочий стол\ВНТУ\2 курс\Алгоритми\lab2\DynamicArrayWinForms\bin\Debug\DynamicArrayWinForms.exe.config
+C:\Users\lavre\OneDrive\Рабочий стол\ВНТУ\2 курс\Алгоритми\lab2\DynamicArrayWinForms\bin\Debug\DynamicArrayWinForms.exe
+C:\Users\lavre\OneDrive\Рабочий стол\ВНТУ\2 курс\Алгоритми\lab2\DynamicArrayWinForms\bin\Debug\DynamicArrayWinForms.pdb
+C:\Users\lavre\OneDrive\Рабочий стол\ВНТУ\2 курс\Алгоритми\lab2\DynamicArrayWinForms\obj\Debug\DynamicArrayWinForms.exe
+C:\Users\lavre\OneDrive\Рабочий стол\ВНТУ\2 курс\Алгоритми\lab2\DynamicArrayWinForms\obj\Debug\DynamicArrayWinForms.pdb
